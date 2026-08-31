@@ -1,4 +1,4 @@
-# 🤖 Automação de Cadastro com Python
+# Automação de Cadastro com Python
 
 Este projeto foi desenvolvido com o objetivo de **automatizar o cadastro de produtos em um sistema web**, utilizando **Python**, **PyAutoGUI** e **Pandas**. Ele lê uma base de dados em CSV e simula a interação humana com o navegador, preenchendo formulários de forma automática, rápida e eficiente.
 
@@ -86,13 +86,6 @@ Este projeto proporcionou aprendizado prático sobre:
 * Ambientes virtuais no Windows
 * Integração entre dados e interface gráfica
 * Debug de erros de ambiente e dependências
-
-## ✨ Próximas Melhorias
-
-* Validação de dados antes do envio
-* Logs de execução
-* Interface gráfica para configuração
-* Automação sem coordenadas fixas
 Estudante de Análise e Desenvolvimento de Sistemas
 Apaixonada por tecnologia, automação e produtividade
 
